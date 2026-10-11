@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "webassembly",
+  "versions": [
+    {
+      "commit": "60cd7a66728eb6ffdb658653dd19384cdd1bb4ee",
+      "parsed_at": "2026-10-11T05:54:42.320251+00:00",
+      "filetree": "filetree/60cd7a66728eb6ffdb658653dd19384cdd1bb4ee.nq.gz",
+      "blobs": [
+        "blob/654a225cc8d1a90f53172c0ee7c6e1167ea5764c.nq.gz",
+        "blob/3b82e07e7c2c1d7510d2376806d04f0f4bde9d08.nq.gz",
+        "blob/e002665db1b684bf9f595441cbfbc9b56b299108.nq.gz",
+        "blob/6d2a1dab6e8ef8cc2ec8c7c6dced662b2b0fce11.nq.gz",
+        "blob/922cbea670c96b4e6fee9975848ceb5bdfbd362c.nq.gz",
+        "blob/f712fdb654f2b24802b100aea9a18816f22e0f68.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

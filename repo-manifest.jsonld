@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/webassembly",
+  "@type": "gh:Repository",
+  "gh:name": "webassembly",
+  "gh:owner": "psf",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/psf/webassembly/commit/60cd7a66728eb6ffdb658653dd19384cdd1bb4ee",
+      "git:hexsha": "60cd7a66728eb6ffdb658653dd19384cdd1bb4ee",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
