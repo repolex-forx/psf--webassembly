@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/webassembly/commit/60cd7a66728eb6ffdb658653dd19384cdd1bb4ee",
       "git:hexsha": "60cd7a66728eb6ffdb658653dd19384cdd1bb4ee",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
